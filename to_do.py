@@ -1,5 +1,5 @@
 # Définir une liste pour stocker les tâches
-tasks = []
+tasks = input()
 
 # Fonction pour ajouter une tâche
 def add_task(description):
